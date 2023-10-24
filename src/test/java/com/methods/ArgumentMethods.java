@@ -20,6 +20,7 @@ public class ArgumentMethods
 	}
 	
 	public static void main(String[] args) {
+		
 		ArgumentMethods.add(5, 10);
 		ArgumentMethods.temp("pavan");
 		ArgumentMethods.temp2(true);
