@@ -1,7 +1,9 @@
 package com.Array;
 
-public class Demo {
+public class Demo extends Object {
 
+	
+	
 	public static void main(String[] args) {
 		
 		// 2 ways we can declare an array

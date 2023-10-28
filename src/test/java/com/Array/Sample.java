@@ -20,7 +20,7 @@ public class Sample {
 			System.out.println(arr[i]);
 		}
 		
-		
+		System.out.println(arr.length);
 	}
 
 }
