@@ -37,10 +37,6 @@ public class Demo_Split {
 			}
 			System.out.println();
 		}
-
-
-
-
 	}
 
 }
