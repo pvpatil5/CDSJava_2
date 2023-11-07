@@ -1,9 +1,7 @@
 package com.oops;
 
-public class Child extends Parent
+public class Child extends Parent_class
 {
-	public void childclass() {
-		System.out.println("method from child class");
-	}
+	
 
 }

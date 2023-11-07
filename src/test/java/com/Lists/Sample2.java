@@ -13,14 +13,24 @@ public class Sample2 {
 		a1.add(74);
 		a1.add(24);
 		
+//		for(int sjbnfjbb :a1) 
+//		{
+//			System.out.println(sjbnfjbb);
+//		}
+		
+		for (int i = a1.size()-1; i >=0; i--) 
+		{
+			System.out.println(a1.get(i));
+		}
 		
 		
-		System.out.println(a1);
 		
-		
-		a1.remove(3);
-		
-		System.out.println(a1);
+//		System.out.println(a1);
+//		
+//		
+//		a1.remove(3);
+//		
+//		System.out.println(a1);
 		
 		
 	}
