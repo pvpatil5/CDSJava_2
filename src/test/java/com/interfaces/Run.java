@@ -10,6 +10,8 @@ public class Run extends Dog {
 		d1.food();
 		d1.sound();
 		d1.highspeed();
+		
+		
 
 	
 		

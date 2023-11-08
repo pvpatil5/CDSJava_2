@@ -18,5 +18,11 @@ public class Cat implements AnimalSound
 	public void lowspeed() {
 		System.out.println("low speed cat");
 	}
+
+	@Override
+	public void test() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }

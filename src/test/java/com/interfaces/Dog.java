@@ -1,7 +1,9 @@
 package com.interfaces;
 
-public class Dog implements AnimalSound
+public class Dog implements AnimalSound,Home
 {
+	
+	
 
 	@Override
 	public void sound() {
@@ -17,6 +19,21 @@ public class Dog implements AnimalSound
 	
 	public void highspeed() {
 		System.out.println("High speed Dog");
+		System.out.println(AnimalSound.a);
 	}
+
+	@Override
+	public void typeHome() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void test() {
+		System.out.println("Hello");
+		
+	}
+
+	
 
 }
